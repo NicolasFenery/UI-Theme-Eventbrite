@@ -1,0 +1,21 @@
+.img-header {
+  height: 80vh;
+  width: 100vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  opacity: 0.9;
+}
+
+.img-header-other {
+  height: 40vh;
+  width: 100vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  opacity: 0.9;
+}
+
+.img-rounded {
+  border-radius: 4px;
+}
